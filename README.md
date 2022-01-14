@@ -49,3 +49,13 @@ Irshava, UA-90100
 * Zero bit of knowledge is already 0ne bit of storage! 
 Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Sergio Shyran
+
+<!--
+**Donations are kindly accepted:**
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="SC6BRHXG388RL" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_UA/i/scr/pixel.gif" width="1" height="1" />
+</form>
+-->
