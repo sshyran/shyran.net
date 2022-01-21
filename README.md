@@ -34,7 +34,7 @@ This Page is also served through [GitHub Pages](https://shyran-systems.github.io
 * **Chrome OS**
 
 **Attention:**
-* Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you.
+* Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you. Also, donations are kindly accepted: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
 
 For more details, please DM or contact me directly. 
 
@@ -51,8 +51,9 @@ Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Sergio Shyran
 
 <!--
-**Donations are kindly accepted:**
-
+###
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+###
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="SC6BRHXG388RL" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
