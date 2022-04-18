@@ -4,8 +4,6 @@
 
 **I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
 
-I currently Develop and Manage Code for @Shyran-Systems.
-
 Some recent activities may be found at my [GitHub Profile](https://github.com/sshyran).
 
 I use GitHub and Azure to Code, Host & Deliver content to my clients (B2C). 
