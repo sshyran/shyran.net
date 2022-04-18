@@ -1,4 +1,4 @@
-# Serhii Shyran ISV & SA 
+# Serhii Shyran
 
 ### Welcome to Ukraine! Слава Україні! Смерть рашистам, смерть ворогам!
 
