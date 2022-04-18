@@ -1,6 +1,6 @@
 # Serhii Shyran ISV & SA 
 
-### Welcome to Ukraine! Слава Україні! Смерть ворогам!
+### Welcome to Ukraine! Слава Україні! Смерть рашистам, смерть ворогам!
 
 **I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
 
