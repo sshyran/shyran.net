@@ -1,6 +1,6 @@
-# Serhii Shyran, ISV & SA 
+# Serhii Shyran ISV & SA 
 
-### Welcome to my Professional GitHub Page!
+### Welcome to Ukraine! Слава Україні! Смерть ворогам!
 
 **I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
 
