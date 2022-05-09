@@ -44,10 +44,10 @@ service@shyran.pp.ua
 Irshava, UA-90100
 ```
 **Moto's:**
-* Zero bit of knowledge is already 0ne bit of storage! 
-Thus - Code is Poetry.
+* Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Serhii Shyran
 
+              
 <!--
 ###
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
