@@ -4,7 +4,7 @@
 
 **I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
 
-Some recent activities may be found at my [GitHub Profile](https://github.com/sshyran).
+Some recent activities may be found at my [GitHub](https://github.com/sshyran) and [Linkedin](https://www.linkedin.com/in/shyran) profile page.
 
 I use GitHub and Azure to Code, Host & Deliver content to my clients (B2C). 
 This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran.pp.ua/) to maintain contact with Subcontractors, current and potential Clients.
@@ -17,6 +17,7 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 
 #### Available Microsoft Products & Servicess:
 * **Microsoft Azure Active Directory** - infrastructure setup, consulting and support.
+* **Google Cloud** - upon request
 * **Microsoft Teams**
 * **Microsoft 365**
 
