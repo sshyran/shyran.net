@@ -2,7 +2,7 @@
 
 ### Welcome to Ukraine! Слава Україні! Смерть ворогам!
 
-**I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer Program member from Ukraine.**
+**I am Independent Contractor (i.c.), ISV, System Administrator, Microsoft Insider & Developer from Ukraine.**
 
 Some recent activities may be found at my [GitHub](https://github.com/sshyran) and [Linkedin](https://www.linkedin.com/in/shyran) profile page.
 
