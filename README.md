@@ -24,7 +24,7 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 #### Operating System Install Services:
 ##### PC OS's
 * **Microsoft Windows** (IoT & Dev Ed.) - installation, setup and paid support.
-* **Linux derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL. 
+* **Unix derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL. 
 
 ##### Mobile Platform & Edge Device OS's
 * **RTOS**
