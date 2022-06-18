@@ -24,13 +24,14 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 #### Operating System Install Services:
 ##### PC OS's
 * **Microsoft Windows** (IoT & Dev Ed.) - installation, setup and paid support.
-* **Linux derivates** - Ubuntu 18.04: IoT Core, Server, Desktop. CentOS, RHEL. 
+* **Linux derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL. 
 
 ##### Mobile Platform & Edge Device OS's
 * **RTOS**
+* **Ubuntu IoT Core**
 * **Android**
-* **Zephyr**
-* **Chrome OS**
+* **Chrome OS Flex**
+
 
 **Attention:**
 * Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you. Also, donations are kindly accepted: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
