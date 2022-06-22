@@ -54,8 +54,10 @@ Irshava, UA-90100
 * GitHub: https://github.com/sshyran
 * Google:
   - Dev page: https://developers.google.com/profile/u/shyran
+  - 
+* WikiTech: https://wikitech.wikimedia.org/wiki/User:Shyran
 * ORCID: https://orcid.org/0000-0002-6237-1785
-* 
+
 
 **Moto's:**
 * Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
