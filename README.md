@@ -38,19 +38,31 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 
 For more details, please DM or contact me directly. 
 
-### Serhii Shyran, i.c.
+### Serhii Shyran, Private Entrepreneur
 ```
 service@shyran.pp.ua
 serhii@shyran.pp.ua
 93.180.676.8
 68.225.225.4
+DUNS: 506878711
 Irshava, UA-90100
 ```
+**Associated resources:**
+* LinkedIn: 
+  - Service Page: https://www.linkedin.com/services/page/a80274313051b67110/
+  - Personal Page: https://www.linkedin.com/in/shyran/
+* GitHub: https://github.com/sshyran
+* Google:
+  - Dev page: https://developers.google.com/profile/u/shyran
+* ORCID: https://orcid.org/0000-0002-6237-1785
+* 
+
 **Moto's:**
 * Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Serhii Shyran
 
-              
+
+
 <!--
 ###
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
