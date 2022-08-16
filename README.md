@@ -57,11 +57,13 @@ Irshava, UA-90100
 * WikiTech: https://wikitech.wikimedia.org/wiki/User:Shyran
 * ORCID: https://orcid.org/0000-0002-6237-1785
 
+**Partners & Affiliates:**
+[Gmhost](https://gmhost.com.ua/?partner=57961)
+
 
 **Moto's:**
 * Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Serhii Shyran
-
 
 
 <!--
