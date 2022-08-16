@@ -58,7 +58,7 @@ Irshava, UA-90100
 * ORCID: https://orcid.org/0000-0002-6237-1785
 
 **Partners & Affiliates:**
-[Gmhost](https://gmhost.com.ua/?partner=57961)
+* [Gmhost](https://gmhost.com.ua/?partner=57961)
 
 
 **Moto's:**
