@@ -15,22 +15,19 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 * **Transport Route & Timetable Optimisation** - AI optimised software, local & cloud installation options available.
 * **Shopify**, **Drupal**, **WordPress**.
 
-#### Available Microsoft Products & Servicess:
-* **Microsoft Azure Active Directory** - infrastructure setup, consulting and support.
-* **Google Cloud** - upon request
-* **Microsoft Teams**
-* **Microsoft 365**
+#### Microsoft Products & Servicess:
+* **Microsoft Windows 10 IoT Core** - infrastructure setup, consulting and support.
+* **Microsoft Azure Active Directory**  -//- .
+* **Microsoft Teams & 365** -//- .
 
-#### Operating System Install Services:
-##### PC OS's
-* **Microsoft Windows** (IoT & Dev Ed.) - installation, setup and paid support.
-* **Unix derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL. 
-
-##### Mobile Platform & Edge Device OS's
-* **RTOS**
-* **Ubuntu IoT Core**
-* **Android**
-* **Chrome OS Flex**
+##### Platform & Edge Device OS's
+* **Android AOSP**;
+* **Google Cloud** - upon request;
+* **Chrome OS Flex** and some other non-systemd OSs;
+* **Ubuntu IoT Core**;
+* **Unix derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL;
+* **RTOS** derivates, PREEMPT_RT capable system; OR just well designed INTERRUPT functionality and Kernel optimisation, to save throughput... yes? no?
+* XILINX, UEFI U-boot, Coreboot and Grub2 variations underway;
 
 
 **Attention:**
