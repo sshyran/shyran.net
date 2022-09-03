@@ -33,17 +33,6 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 **Attention:**
 * Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you. Also, donations are kindly accepted: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
 
-For more details, please DM or contact me directly. 
-
-### Serhii Shyran, Private Entrepreneur
-```
-service@shyran.pp.ua
-serhii@shyran.pp.ua
-93.180.676.8
-68.225.225.4
-DUNS: 506878711
-Irshava, UA-90100
-```
 **Associated resources:**
 * LinkedIn: 
   - Service Page: https://www.linkedin.com/services/page/a80274313051b67110/
@@ -61,6 +50,18 @@ Irshava, UA-90100
 **Moto's:**
 * Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
 * When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Serhii Shyran
+
+For more details, please DM or contact me directly. 
+
+### Serhii Shyran, Private Entrepreneur
+```
+service@shyran.pp.ua
+serhii@shyran.pp.ua
+93.180.676.8
+68.225.225.4
+DUNS: 506878711
+Irshava, UA-90100
+```
 
 
 <!--
