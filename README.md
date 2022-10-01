@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.qoomon.me">
+  <a href="https://shyran.pp.ua">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=130&section=header&text=Serhii%20Shyran&fontSize=32&animation=fadeIn&fontAlignY=20&desc=Independent%20Contractor&descSize=12&descAlignY=46&descAlign=53.8">
   </a>
 </div>
