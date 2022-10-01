@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.qoomon.me">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Serhii%20Shyran&fontSize=32&animation=fadeIn&fontAlignY=20&desc=Independent%20Contractor&descSize=12&descAlignY=46&descAlign=53.8">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=130&section=header&text=Serhii%20Shyran&fontSize=32&animation=fadeIn&fontAlignY=20&desc=Independent%20Contractor&descSize=12&descAlignY=46&descAlign=53.8">
   </a>
 </div>
 
@@ -33,9 +33,11 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 * **RTOS** derivates, PREEMPT_RT capable system; OR just well designed INTERRUPT functionality and Kernel optimisation, to save throughput... yes? no?
 * XILINX, UEFI U-boot, Coreboot and Grub2 variations underway;
 
-
 **Attention:**
 * Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you. Also, donations are kindly accepted: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
+
+**Projects to check on:**
+* OTP WebApp - https://sshyran.github.io/otp/
 
 **Associated resources:**
 * LinkedIn: 
