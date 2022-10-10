@@ -21,7 +21,7 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 * **Shopify**, **Drupal**, **WordPress**.
 
 #### Microsoft Products & Servicess:
-* **Microsoft Windows 10 IoT Core** - infrastructure setup, consulting and support.
+* **Microsoft Windows: Vista, 8.0, RT, 10 IoT Core** - consulting, infrastructure setup and support.
 * **Microsoft Azure Active Directory**  -//- .
 * **Microsoft Teams & 365** -//- .
 
