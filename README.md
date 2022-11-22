@@ -15,7 +15,10 @@
 
   gtag('config', 'G-XMWZXLVMS3');
 </script>
+</head>
 -->
+<meta name="google-site-verification" content="2OWcHQ_lPug3-Cw-5a6IE7W6R_lvCCENYZ1TtAn6AyI" />
+
 ### Welcome to Ukraine! Слава Україні!
 
 **I am Independent Contractor (i.c.), System Administrator, Microsoft Insider & Developer from Ukraine.**
