@@ -5,6 +5,17 @@
   </a>
 </div>
 -->
+<!-- Google tag (gtag.js)
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XMWZXLVMS3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XMWZXLVMS3');
+</script>
+-->
 ### Welcome to Ukraine! Слава Україні!
 
 **I am Independent Contractor (i.c.), System Administrator, Microsoft Insider & Developer from Ukraine.**
