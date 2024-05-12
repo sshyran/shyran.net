@@ -76,7 +76,7 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 
 For more details, please DM or contact me directly. 
 
-### Serhii Shyran, Private Entrepreneur
+### Serhii S. Shyran, Private Entrepreneur
 ```
 service@shyran.net
 serhii@shyran.pp.ua
