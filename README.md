@@ -60,6 +60,7 @@ This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran
 * LinkedIn: 
   - Service Page: https://www.linkedin.com/services/page/a80274313051b67110/
   - Personal Page: https://www.linkedin.com/in/shyran/
+  - Follow link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shyran
 * GitHub: https://github.com/sshyran
 * Google:
   - Dev page: https://developers.google.com/profile/u/shyran
