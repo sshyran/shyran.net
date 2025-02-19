@@ -22,7 +22,7 @@
 <meta name="google-site-verification" content="2OWcHQ_lPug3-Cw-5a6IE7W6R_lvCCENYZ1TtAn6AyI" />
 
 ### Welcome to Ukraine! Слава Україні!
-#### Перегянути оригінальний контент сторінки [Українською](https://shyran.net/).
+** Перегянути оригінальний контент сторінки [Українською](https://shyran.net/).**
 
 **I am Independent Contractor (i.c.), System Administrator, Microsoft Insider & Developer from Ukraine.**
 
