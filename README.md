@@ -24,7 +24,8 @@
 ### Welcome to Ukraine! Слава Україні! 
 ***Also, you are welcome to have a look at his page [in English](https://shyran.net/en).***
 
-**Я незалежний підрядник (aka: sole proprietor, independent contractor); системний адміністратор; Microsoft інсайдер і розробник (Web Dev) з України.**
+**Я незалежний підрядник (aka: sole proprietor, independent contractor), в українському податковому законодавстві така термінологія має два відповідники (синоніми) - підприємець (ФОП) та самозайнятий (незалежна професійна діяльність).
+Також я системний адміністратор, Microsoft-інсайдер і розробник (Web Dev) з України.**
 
 Деякі останні напрацювання можна знайти на сторінках [GitHub](https://github.com/sshyran) і [Linkedin](https://www.linkedin.com/in/sshyran).
 
