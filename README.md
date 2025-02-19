@@ -21,7 +21,8 @@
 -->
 <meta name="google-site-verification" content="2OWcHQ_lPug3-Cw-5a6IE7W6R_lvCCENYZ1TtAn6AyI" />
 
-### Welcome to Ukraine! Слава Україні!
+### Welcome to Ukraine! Слава Україні! 
+### You are welcome to have a look at his page [in English](https://sshyran.github.io/shyran.net/shyran.net/blob/jekyll.branch/en.md).
 
 **Я незалежний підрядник (aka: sole proprietor, independent contractor); системний адміністратор; Microsoft інсайдер і розробник з України.**
 
