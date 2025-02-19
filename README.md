@@ -22,7 +22,7 @@
 <meta name="google-site-verification" content="2OWcHQ_lPug3-Cw-5a6IE7W6R_lvCCENYZ1TtAn6AyI" />
 
 ### Welcome to Ukraine! Слава Україні! 
-**You are welcome to have a look at his page [in English](https://shyran.net/en).**
+***Also, you are welcome to have a look at his page [in English](https://shyran.net/en).***
 
 **Я незалежний підрядник (aka: sole proprietor, independent contractor); системний адміністратор; Microsoft інсайдер і розробник (Web Dev) з України.**
 
@@ -54,7 +54,7 @@
 **Увага:**
 * Потенційні клієнти з ЄС та Америки - швидше за все, співпраця/транзакції не будуть для вас оподатковані повністю, оскільки вас розглядатимуть як "іноземця", уточніть у свого CPA, чи це вас стосується. Також люб’язно приймаються пожертви: [за допомогою PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
 
-**Проекти для перевірки:**
+**Проекти для перегляду:**
 * OTP WebApp - https://sshyran.github.io/otp/
 
 **Пов’язані ресурси:**
@@ -73,7 +73,7 @@
 
 Для отримання додаткової інформації - будь ласка, напишіть або зв’яжіться зі мною напряму.
 
-### Ширан Сергій Сергійович, приватний підприємець
+### Сергій Ширан, приватний підприємець
 ```
 service@shyran.net
 service@shyran.pp.ua
