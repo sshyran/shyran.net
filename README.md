@@ -23,69 +23,64 @@
 
 ### Welcome to Ukraine! Слава Україні!
 
-**I am Independent Contractor (i.c.), System Administrator, Microsoft Insider & Developer from Ukraine.**
+**Я незалежний підрядник (i.c.), системний адміністратор, інсайдер і розробник Microsoft з України.**
 
-Some recent activities may be found at my [GitHub](https://github.com/sshyran) and [Linkedin](https://www.linkedin.com/in/shyran) profile page.
+Деякі останні дії можна знайти на сторінці мого профілю [GitHub](https://github.com/sshyran) і [Linkedin](https://www.linkedin.com/in/sshyran).
 
-I use GitHub and Azure to Code, Host & Deliver content to my clients (B2C). 
-This Page is also served through [GitHub Pages](https://sshyran.github.io/shyran.pp.ua/) to maintain contact with Subcontractors, current and potential Clients.
+Я використовую GitHub і Azure для кодування, розміщення та доставки вмісту своїм клієнтам (B2C).
+Ця Сторінка також обслуговується через [сторінки GitHub](https://sshyran.github.io/shyran.net/), щоб підтримувати зв’язок із Суб-підрядниками, поточними та потенційними Клієнтами.
 
-#### Featured Services:
-* **Codebase Security Analysis & QA** - code quality lab, for open sourced projects only (paid advissory & setup);
-* **Patient & Hospital Management Software (RMS)** - setup & support for any organisation;
-* **Transport Route & Timetable Optimisation** - AI optimised software, local & cloud installation options available.
+#### Рекомендовані послуги:
+* **Codebase Security Analysis & QA** - лабораторія якості коду, лише для проектів з відкритим кодом (платні консультації та налаштування);
+* **Програмне забезпечення для керування пацієнтами та лікарнями (RMS)** - налаштування та підтримка для будь-якої організації;
+* **Оптимізація транспортного маршруту та розкладу** - доступне програмне забезпечення, оптимізоване штучним інтелектом, локальне та хмарне встановлення.
 * **Shopify**, **Drupal**, **WordPress**.
 
-#### Microsoft Products & Servicess:
-* **Microsoft Windows: Vista, 8.0, RT, 10 IoT Core** - consulting, infrastructure setup and support.
-* **Microsoft Azure Active Directory**  -//- .
+#### Продукти та послуги Microsoft:
+* **Microsoft Windows: Vista, 8.0, RT, 10 IoT Core** - консультації, налаштування інфраструктури та підтримка.
+* **Microsoft Azure Active Directory** -//- .
 * **Microsoft Teams & 365** -//- .
 
-##### Platform & Edge Device OS's
+##### ОС для платформ і крайніх пристроїв
 * **Android AOSP**;
-* **Google Cloud** - upon request;
-* **Chrome OS Flex** and some other non-systemd OSs;
+* **Google Cloud** - за запитом;
+* **Chrome OS Flex** і деякі інші несистемні ОС;
 * **Ubuntu IoT Core**;
-* **Unix derivates** - Ubuntu 18.04 - 22.04: Server, Desktop. CentOS, RHEL;
-* **RTOS** derivates, PREEMPT_RT capable system; OR just well designed INTERRUPT functionality and Kernel optimisation, to save throughput... yes? no?
-* XILINX, UEFI U-boot, Coreboot and Grub2 variations underway;
+* **Похідні Unix** - Ubuntu 18.04 - 22.04: сервер, робочий стіл. CentOS, RHEL;
+* Похідні **RTOS**, система з підтримкою PREEMPT_RT; АБО просто добре розроблена функція INTERRUPT і оптимізація ядра, щоб зберегти пропускну здатність... так? ні?
+* Розробляються варіанти XILINX, UEFI U-boot, Coreboot і Grub2;
 
-**Attention:**
-* Potential clients from EU & Americas - most likely cooperation/transactions will be Tax-free for you, as for being treated as "foreign", check with your CPA if this applies to you. Also, donations are kindly accepted: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
+**Увага:**
+* Потенційні клієнти з ЄС та Америки - швидше за все, співпраця/транзакції не будуть для вас оподатковані повністю, оскільки вас розглядатимуть як "іноземця", уточніть у свого CPA, чи це вас стосується. Також люб’язно приймаються пожертви: [за допомогою PayPal](https://www.paypal.com/donate/?hosted_button_id=SC6BRHXG388RL)
 
-**Projects to check on:**
+**Проекти для перевірки:**
 * OTP WebApp - https://sshyran.github.io/otp/
 
-**Associated resources:**
-* LinkedIn: 
-  - Service Page: https://www.linkedin.com/services/page/a80274313051b67110/
-  - Personal Page: https://www.linkedin.com/in/shyran/
-  - Follow link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shyran
+**Пов’язані ресурси:**
+* LinkedIn:
+ - Сервісна сторінка: https://www.linkedin.com/services/page/a80274313051b67110/
+ - Персональна сторінка: https://www.linkedin.com/in/shyran/
+ - Нетворкінг та спільнота: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shyran
 * GitHub: https://github.com/sshyran
 * Google:
-  - Dev page: https://developers.google.com/profile/u/shyran
+ - Сторінка розробника: https://developers.google.com/profile/u/shyran
 * WikiTech: https://wikitech.wikimedia.org/wiki/User:Shyran
 * ORCID: https://orcid.org/0000-0002-6237-1785
 
-**Partners & Affiliates:**
+**Партнери та афілійовані організації:**
 * [Gmhost](https://gmhost.com.ua/?partner=57961)
 
+Для отримання додаткової інформації - будь ласка, напишіть або зв’яжіться зі мною напряму.
 
-**Moto's:**
-* Zero bit of knowledge is already 0ne bit of storage!Thus - Code is Poetry.
-* When magic of word is faken, and simplicity of deed is speechless - sound of silence brings truth. (cc) Serhii Shyran
-
-For more details, please DM or contact me directly. 
-
-### Serhii S. Shyran, Private Entrepreneur
+### Ширан Сергій Сергійович, приватний підприємець
 ```
 service@shyran.net
-serhii@shyran.pp.ua
+service@shyran.pp.ua
 98.991.986.0
 93.180.676.8
 68.225.225.4
 DUNS: 506878711
-Irshava, UA-90100
+Іршава, UA-90100
 ```
 
 
