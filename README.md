@@ -23,9 +23,9 @@
 
 ### Welcome to Ukraine! Слава Україні!
 
-**Я незалежний підрядник (i.c.), системний адміністратор, інсайдер і розробник Microsoft з України.**
+**Я незалежний підрядник (aka: sole proprietor, independent contractor); системний адміністратор; Microsoft інсайдер і розробник з України.**
 
-Деякі останні дії можна знайти на сторінці мого профілю [GitHub](https://github.com/sshyran) і [Linkedin](https://www.linkedin.com/in/sshyran).
+Деякі останні напрацювання можна знайти на сторінках [GitHub](https://github.com/sshyran) і [Linkedin](https://www.linkedin.com/in/sshyran).
 
 Я використовую GitHub і Azure для кодування, розміщення та доставки вмісту своїм клієнтам (B2C).
 Ця Сторінка також обслуговується через [сторінки GitHub](https://sshyran.github.io/shyran.net/), щоб підтримувати зв’язок із Суб-підрядниками, поточними та потенційними Клієнтами.
